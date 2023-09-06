@@ -2,7 +2,7 @@ const mongoose = require("mongoose")
 
 const productSchema = new mongoose.Schema(
     {
-       /* image_url: {
+      /* image_url: {
             type: String,
             default: ''
         },*/
